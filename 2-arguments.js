@@ -1,4 +1,4 @@
-const argCount = ProcessingInstruction.argv.length - 2;
+const argCount = Process.argv.length - 2;
 
 if (argCount === 0) {
 
